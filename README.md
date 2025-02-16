@@ -1,5 +1,8 @@
-# screensharing
-Screensharing: Python module for sharing/casting your screen with others in realtime with
+# Screen-Sharing
+Screensharing: 
+This repo was created on my personal github repo but i have migrated it here also moreover i am making it code open source so that anyone can update it and make it more advanced and also can add more new features to it. 
+<br>
+Python module for sharing/casting your screen with others in realtime with
 fast &amp; accurate casting. Works best when connected to same network  Copyright © 2024 Coder-wis
 <vishalsharma659615@gmail.com>
 
